@@ -1,0 +1,15 @@
+body {
+	background-image: url("recepten.jpg");
+}
+img{
+	width:100%;
+}
+
+p {
+     word-wrap: break-word;
+     width: 300px;
+}
+
+h2 {
+    text-align: left;
+}
